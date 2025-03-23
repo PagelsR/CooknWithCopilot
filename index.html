@@ -11,7 +11,7 @@
     .content-container {
       width: 800px;
       margin: 0 auto;
-      justify-content: left;
+      text-align: left; /* Ensures text is left-aligned */
     }
     .content-container img {
       display: block;
@@ -19,22 +19,19 @@
     }
     .content-container p {
       width: 100%;
-      text-align: justify;
-      justify-content: left;
+      text-align: left; /* Ensures paragraph text is left-aligned */
     }
   </style>
 </head>
 <body>
   <h1>Cook'n With Copilot</h1>
 
-  <!-- Shared header image and paragraph -->
+  <!-- Shared header image, paragraph, and contribute section -->
   <div class="content-container">
     <img src="images/header-main.png" alt="Cook'n With Copilot Banner" />
     <p>Welcome to <strong>Cook'n With Copilot</strong>, a blog series dedicated to exploring the delicious world of GitHub Copilot! Whether you're a seasoned developer or just starting out, this series is designed to help you harness the power of GitHub Copilot to enhance your coding experience.</p>
-  </div>
-
-  <!-- Contribute Your Ideas section -->
-  <div class="contribute-ideas">
+  
+    <!-- Contribute Your Ideas section -->
     <h2>Contribute Your Ideas!</h2>
     <p>Do you have an idea for a short, bite-sized blog post about GitHub Copilot? I'd love to hear from you! Feel free to issue a pull request with your suggestions for a post or draft posts at <a href="https://github.com/PagelsR/CooknWithCopilot" target="_blank">https://github.com/PagelsR/CooknWithCopilot</a>. Whether it's a tip, trick, or creative use case, your contribution could help others code smarter and faster.</p>
   </div>
