@@ -1,5 +1,9 @@
 # Cook'n With Copilot
 
+![Cook'n With Copilot Banner](images/header-main.png)
+Welcome to **Cook'n With Copilot**, a blog series dedicated to exploring the delicious world of GitHub Copilot! Whether you're a seasoned developer or just starting out, this series is designed to help you harness the power of GitHub Copilot to enhance your coding experience.
+
+## What is Cook'n With Copilot?
 Cook'n With Copilot is your go-to blog series serving up bite-sized GitHub Copilot tips, tricks, and insights to help developers code smarter, faster, and with a dash of creativity.
 
 ## Contribute Your Ideas!
