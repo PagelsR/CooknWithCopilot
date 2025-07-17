@@ -2,47 +2,104 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta name="description" content="Cook'n With Copilot is a blog series offering GitHub Copilot tips, tricks, and code recipes to help developers build smarter and faster." />
   <meta name="keywords" content="GitHub Copilot, programming tips, coding recipes, developer tools, AI coding assistant" />
   <meta name="author" content="Randy Pagels" />
   <title>Cook'n With Copilot</title>
-  <style>
-    .content-container {
-      width: 800px;
-      margin: 0 auto;
-      text-align: left; /* Ensures text is left-aligned */
-    }
-    .content-container img {
-      display: block;
-      width: 100%;
-    }
-    .content-container p {
-      width: 100%;
-      text-align: left; /* Ensures paragraph text is left-aligned */
-    }
-  </style>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-  <!-- Shared header image, paragraph, and contribute section -->
-  <div class="content-container">
+  <div class="container">
     <h1>Cook'n With Copilot</h1>
+    <img src="images/header-main.png" alt="Cook'n With Copilot Banner" class="header-img" />
+    <p>
+      Welcome to <strong>Cook'n With Copilot</strong>, a blog series dedicated to exploring the delicious world of GitHub Copilot! Whether you're a seasoned developer or just starting out, this series is designed to help you harness the power of GitHub Copilot to make coding easier and more fun.
+    </p>
 
-    <img src="images/header-main.png" alt="Cook'n With Copilot Banner" />
-    <p>Welcome to <strong>Cook'n With Copilot</strong>, a blog series dedicated to exploring the delicious world of GitHub Copilot! Whether you're a seasoned developer or just starting out, this series is designed to help you harness the power of GitHub Copilot to enhance your coding experience.</p>
-  
-    <h2>Latest Posts</h2>
-    <ul>
-      <li><a href="2025-03-24-copilot-vs-chat-sidekick-showdown.html">Copilot vs. Chat: Sidekick Showdown</a></li>
-      <li><a href="2025-03-23-avoid-these-common-prompts.html">Avoid These Common Prompts</a></li>
-      <li><a href="2025-03-22-top-10-copilot-tips.html">Top 10 Copilot Tips</a></li>
-    </ul>
+    <div class="section-title">Latest Posts</div>
+    <div class="posts-scrollbox">
+      <ul>
+        <li>
+          <a class="post-link" href="blog/copilot-vs-chat-sidekick-showdown.html">Copilot vs. Chat: Sidekick Showdown</a>
+          <span class="post-date">(Jul 11, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/avoid-these-common-prompts.html">Avoid These Common Prompts</a>
+          <span class="post-date">(Jul 4, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/top-10-copilot-tips.html">Top 10 Copilot Tips</a>
+          <span class="post-date">(Jun 27, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/refactor-messy-code-in-seconds-with-github-copilot.html">Refactor Messy Code in Seconds with GitHub Copilot</a>
+          <span class="post-date">(Jun 20, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/automate-repetitive-code-with-github-copilot.html">Automate Repetitive Code with GitHub Copilot</a>
+          <span class="post-date">(Jun 13, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/ways-to-use-github-copilot-for-documentation-clarity.html">Ways to Use GitHub Copilot for Documentation & Clarity</a>
+          <span class="post-date">(Jun 6, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/debug-faster-with-github-copilot.html">Debug Faster with GitHub Copilot</a>
+          <span class="post-date">(May 30, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/use-copilot-in-vs-code-to-summarize-prs.html">Use Copilot in VS Code to Summarize PRs</a>
+          <span class="post-date">(May 23, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/write-better-commit-messages-with-github-copilot.html">Write Better Commit Messages with GitHub Copilot</a>
+          <span class="post-date">(May 16, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/quick-chat-is-your-instant-ai-sidekick.html">Quick Chat is your instant AI sidekick</a>
+          <span class="post-date">(May 9, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/craft-prompts-that-get-better-results.html">Craft Prompts That Get Better Results</a>
+          <span class="post-date">(May 2, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/start-new-files-faster-with-github-copilot.html">Start New Files Faster with GitHub Copilot</a>
+          <span class="post-date">(Apr 25, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/write-unit-tests-without-the-guesswork.html">Write Unit Tests Without the Guesswork</a>
+          <span class="post-date">(Apr 18, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/promptception-improve-prompts-with-copilot.html">Promptception – Improve Prompts with Copilot</a>
+          <span class="post-date">(Apr 11, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/let-copilot-help-you-name-things.html">Let Copilot Help You Name Things</a>
+          <span class="post-date">(Apr 4, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/modernize-legacy-code-with-github-copilot.html">Modernize Legacy Code with GitHub Copilot</a>
+          <span class="post-date">(Mar 28, 2025)</span>
+        </li>
+        <li>
+          <a class="post-link" href="blog/ask-better-questions-get-better-code.html">Ask Better Questions, Get Better Code</a>
+          <span class="post-date">(Mar 21, 2025)</span>
+        </li>
+      </ul>
+    </div>
 
-    <!-- Contribute Your Ideas section -->
-    <h2>Contribute Your Ideas!</h2>
-    <p>Do you have an idea for a short, bite-sized blog post about GitHub Copilot? I'd love to hear from you! Feel free to issue a pull request with your suggestions for a post or draft posts at <a href="https://github.com/PagelsR/CooknWithCopilot" target="_blank">https://github.com/PagelsR/CooknWithCopilot</a>. Whether it's a tip, trick, or creative use case, your contribution could help others code smarter and faster.</p>
+    <div class="section-title">Contribute Your Ideas!</div>
+    <div class="contribute">
+      <p>
+        Do you have an idea for a short, bite-sized blog post about GitHub Copilot? I'd love to hear from you!<br>
+        Feel free to issue a pull request with your suggestions or draft posts at
+        <a href="https://github.com/PagelsR/CooknWithCopilot" target="_blank">https://github.com/PagelsR/CooknWithCopilot</a>.<br>
+        Whether it's a tip, trick, or creative use case, your contribution could help others code smarter and faster.
+      </p>
+    </div>
   </div>
-
 </body>
 </html>
