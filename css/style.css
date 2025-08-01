@@ -149,3 +149,145 @@ em {
 .back-link:hover {
   background: #d6eaff;
 }
+
+/* RSS Feed Styles */
+.rss-feed-container {
+  margin-top: 2rem;
+  border: 1px solid #e3e9f5;
+  border-radius: 8px;
+  background: #f7f8fa;
+  padding: 1.2rem;
+}
+
+.rss-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid #e3e9f5;
+}
+
+.rss-title {
+  font-size: 1.22rem;
+  color: #4a6fa5;
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.rss-link {
+  color: #3477e3;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background: #e9f1ff;
+  transition: background 0.2s;
+}
+
+.rss-link:hover {
+  background: #d6eaff;
+  text-decoration: none;
+}
+
+.rss-items {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.rss-item {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e9eef6;
+}
+
+.rss-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.rss-item-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 0.4rem;
+  gap: 1rem;
+}
+
+.rss-item-title {
+  color: #3477e3;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1.05em;
+  line-height: 1.4;
+  flex: 1;
+  transition: color 0.18s;
+}
+
+.rss-item-title:hover {
+  color: #17408b;
+  text-decoration: underline;
+}
+
+.rss-item-date {
+  color: #6a7c93;
+  font-size: 0.85em;
+  font-style: italic;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.rss-item-description {
+  color: #555;
+  font-size: 0.95em;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.rss-error {
+  text-align: center;
+  color: #d73027;
+  padding: 1rem;
+}
+
+.rss-error a {
+  color: #3477e3;
+  text-decoration: none;
+}
+
+.rss-error a:hover {
+  text-decoration: underline;
+}
+
+/* Custom scrollbar for RSS items */
+.rss-items::-webkit-scrollbar {
+  width: 6px;
+  background: #fff;
+  border-radius: 6px;
+}
+
+.rss-items::-webkit-scrollbar-thumb {
+  background: #e9eef6;
+  border-radius: 6px;
+}
+
+@media (max-width: 640px) {
+  .rss-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .rss-item-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.3rem;
+  }
+  
+  .rss-item-date {
+    white-space: normal;
+  }
+}

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Cook'n With Copilot</title>
+    <link>https://pagelsR.github.io/CooknWithCopilot</link>
+    <description>A blog series offering GitHub Copilot tips, tricks, and code recipes to help developers build smarter and faster.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2025 Randy Pagels</copyright>
+    <managingEditor>randy.pagels@xebia.com (Randy Pagels)</managingEditor>
+    <webMaster>randy.pagels@xebia.com (Randy Pagels)</webMaster>
+    <pubDate>Thu, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Aug 2025 00:00:00 GMT</lastBuildDate>
+    <category>Programming</category>
+    <generator>Cook'n With Copilot Blog</generator>
+    
+    <item>
+      <title>Write Cleaner Code Comments with GitHub Copilot</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/write-cleaner-code-comments-with-github-copilot.html</link>
+      <description>Learn how to use GitHub Copilot to write better, more meaningful code comments that improve code readability and maintainability.</description>
+      <pubDate>Thu, 01 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/write-cleaner-code-comments-with-github-copilot.html</guid>
+    </item>
+    
+    <item>
+      <title>Use GitHub Copilot Chat to Plan Before You Code</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/use-github-copilot-chat-to-plan-before-you-code.html</link>
+      <description>Discover how GitHub Copilot Chat can help you plan and structure your code before you start writing, leading to better architecture and cleaner implementation.</description>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/use-github-copilot-chat-to-plan-before-you-code.html</guid>
+    </item>
+    
+    <item>
+      <title>Copilot vs. Chat: Sidekick Showdown</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/copilot-vs-chat-sidekick-showdown.html</link>
+      <description>Compare GitHub Copilot and GitHub Copilot Chat to understand when to use each tool for maximum productivity and better code quality.</description>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/copilot-vs-chat-sidekick-showdown.html</guid>
+    </item>
+    
+    <item>
+      <title>Avoid These Common Prompts</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/avoid-these-common-prompts.html</link>
+      <description>Learn about common GitHub Copilot prompts that don't work well and discover better alternatives that will give you more useful results.</description>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/avoid-these-common-prompts.html</guid>
+    </item>
+    
+    <item>
+      <title>Top 10 Copilot Tips</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/top-10-copilot-tips.html</link>
+      <description>A curated list of the most effective GitHub Copilot tips and tricks to supercharge your coding workflow and productivity.</description>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/top-10-copilot-tips.html</guid>
+    </item>
+    
+    <item>
+      <title>Refactor Messy Code in Seconds with GitHub Copilot</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/refactor-messy-code-in-seconds-with-github-copilot.html</link>
+      <description>Transform legacy and messy code into clean, maintainable solutions using GitHub Copilot's powerful refactoring capabilities.</description>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/refactor-messy-code-in-seconds-with-github-copilot.html</guid>
+    </item>
+    
+    <item>
+      <title>Automate Repetitive Code with GitHub Copilot</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/automate-repetitive-code-with-github-copilot.html</link>
+      <description>Eliminate tedious, repetitive coding tasks by leveraging GitHub Copilot's pattern recognition and code generation capabilities.</description>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/automate-repetitive-code-with-github-copilot.html</guid>
+    </item>
+    
+    <item>
+      <title>Ways to Use GitHub Copilot for Documentation &amp; Clarity</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/ways-to-use-github-copilot-for-documentation-clarity.html</link>
+      <description>Improve your code documentation and clarity using GitHub Copilot to generate comprehensive comments, README files, and inline documentation.</description>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/ways-to-use-github-copilot-for-documentation-clarity.html</guid>
+    </item>
+    
+    <item>
+      <title>Debug Faster with GitHub Copilot</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/debug-faster-with-github-copilot.html</link>
+      <description>Speed up your debugging process by using GitHub Copilot to identify issues, suggest fixes, and write effective debug code.</description>
+      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/debug-faster-with-github-copilot.html</guid>
+    </item>
+    
+    <item>
+      <title>Use Copilot in VS Code to Summarize PRs</title>
+      <link>https://pagelsR.github.io/CooknWithCopilot/blog/use-copilot-in-vs-code-to-summarize-prs.html</link>
+      <description>Learn how to leverage GitHub Copilot in VS Code to create comprehensive and meaningful pull request summaries and descriptions.</description>
+      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsR.github.io/CooknWithCopilot/blog/use-copilot-in-vs-code-to-summarize-prs.html</guid>
+    </item>
+    
+  </channel>
+</rss>
