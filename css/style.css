@@ -40,6 +40,48 @@ p {
   font-weight: 600;
   letter-spacing: 0.02em;
 }
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2.2rem;
+  margin-bottom: 0.7rem;
+}
+
+.section-header .section-title {
+  margin: 0;
+}
+
+.rss-subscribe-btn {
+  color: #3477e3;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: #e9f1ff;
+  transition: background 0.2s ease;
+  white-space: nowrap;
+}
+
+.rss-subscribe-btn:hover {
+  background: #d6eaff;
+  text-decoration: none;
+}
+
+/* 
+  .posts-scrollbox
+
+  Styles a scrollable container for posts with the following features:
+  - Limits the maximum height to 280px and enables vertical scrolling for overflow content.
+  - Adds spacing below the container with a 2rem margin.
+  - Applies rounded corners with an 8px border-radius.
+  - Sets a light background color (#f7f8fa) for visual separation.
+  - Adds a subtle box-shadow for depth.
+  - Provides internal padding for content spacing.
+  - Outlines the container with a 1px solid border in a soft blue shade (#e3e9f5).
+*/
 .posts-scrollbox {
   max-height: 280px;
   overflow-y: auto;
@@ -47,19 +89,36 @@ p {
   border-radius: 8px;
   background: #f7f8fa;
   box-shadow: 0 0.5px 3px #e0e7ef;
-  padding: 1rem 1.2rem 1rem 1.2rem;
+  /** This means: top=1rem, right=1.2rem, bottom=1rem, left=1.2rem */
+  padding: 0rem 1rem 1rem 0.2rem;
   border: 1px solid #e3e9f5;
 }
 ul {
-  padding-left: 1.2em;
+  padding-left: 0;
   margin-bottom: 0;
 }
 ul li {
-  margin-bottom: 0.75em;
+  margin-bottom: 1em;
   font-size: 1.07em;
   line-height: 1.5;
+  display: block;
+}
+
+.post-header {
   display: flex;
   align-items: center;
+  margin-bottom: 0.3em;
+}
+
+.post-teaser {
+  color: #6a7c93;
+  font-size: 0.9em;
+  line-height: 1.0;
+  margin-left: 0;
+  font-style: italic;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .post-link {
   text-decoration: none;
@@ -85,12 +144,13 @@ ul li {
   padding: 1.1rem 1.3rem;
   border-radius: 8px;
   margin-top: 1.8rem;
+  font-size: 0.8em;
 }
 /* Custom Scrollbar */
 .posts-scrollbox::-webkit-scrollbar {
   width: 8px;
   background: #fff;        /* White scrollbar track */
-  border-radius: 8px;
+  border-radius: 2px;
 }
 .posts-scrollbox::-webkit-scrollbar-thumb {
   background: #e9eef6;     /* Light gray thumb */
@@ -131,9 +191,26 @@ em {
   .container { padding: 1rem 0.5rem; }
   .header-img { margin-bottom: 1rem; }
   .posts-scrollbox { max-height: 200px; }
+  
+  .section-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
 }
 @media (max-width: 640px) {
   .container { padding: 1rem 0.5rem; }
+  
+  .section-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .rss-subscribe-btn {
+    font-size: 0.85rem;
+    padding: 5px 10px;
+  }
 }
 .back-link {
   display: inline-block;
