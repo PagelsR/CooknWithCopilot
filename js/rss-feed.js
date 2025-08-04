@@ -3,7 +3,7 @@ class RSSFeedReader {
     constructor(feedUrl, containerId) {
         this.feedUrl = feedUrl;
         this.container = document.getElementById(containerId);
-        this.maxItems = 5; // Number of items to display
+        this.maxItems = 20; // Number of items to display
     }
 
     async loadFeed() {
