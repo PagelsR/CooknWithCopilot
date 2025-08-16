@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Speed Up API Integration with GitHub Copilot</title>
+      <link>https://pagelsr.github.io/CooknWithCopilot/blog/speed-up-api-integration.html</link>
+      <description>Skip boilerplate and get working API calls faster with Copilot, while keeping full control over the details.</description>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/speed-up-api-integration.html</guid>
+    </item>
+    <item>
       <title>Find and Fix Typos Faster with GitHub Copilot</title>
       <link>https://pagelsr.github.io/CooknWithCopilot/blog/find-and-fix-typos-faster-with-github-copilot.html</link>
       <description>Typos can be sneaky. A missing letter in a variable name, can cause real headaches.</description>
