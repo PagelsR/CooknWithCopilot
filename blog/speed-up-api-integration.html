@@ -1,34 +1,47 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Speed Up API Integration with GitHub Copilot</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-  <article>
+  <div class="container">
+    <a class="back-link" href="../index.html">&larr; Back to Main Page</a>
     <h1>Speed Up API Integration with GitHub Copilot</h1>
-    <p><strong>Usage:</strong> Connecting your application to an API often means jumping between docs, writing boilerplate, and testing requests until they work. With GitHub Copilot, you can skip a lot of the overhead and focus on the part that matters — making your app actually do something useful.</p>
+    <p><em>Posted on Aug 20, 2025</em></p>
 
-    <p><strong>ProTip:</strong> Pair Copilot’s suggestions with your own knowledge of the API docs. You’ll catch edge cases while Copilot speeds through the setup.</p>
+    <div class="section-title">Usage</div>
+    <p>
+      Connecting your application to an API often means jumping between docs, writing boilerplate, and testing requests until they work.<br>
+      With GitHub Copilot, you can skip a lot of the overhead and focus on the part that matters — making your app actually do something useful.
+    </p>
 
-    <h2>Try This Approach</h2>
-    <p>Instead of manually setting up every call, you can prompt Copilot like this:</p>
+    <div class="section-title">ProTip</div>
+    <div class="protip">
+      <b>Pair Copilot’s suggestions with your own knowledge of the API docs.</b><br>
+      You’ll catch edge cases while Copilot speeds through the setup.
+      <br><br>
 
-    <pre><code>Write a function in JavaScript that calls the OpenWeatherMap API,
-fetches the current temperature for a given city,
-and returns it in Celsius.</code></pre>
+      <b>Try This Approach</b><br>
+      Instead of manually setting up every call, you can prompt Copilot like this:<br>
+      <code>Write a function in JavaScript that calls the OpenWeatherMap API,<br>
+      fetches the current temperature for a given city,<br>
+      and returns it in Celsius.</code>
+      <br><br>
 
-    <p>Copilot will generate the fetch logic, handle query parameters, and return structured results. From there, you can refine the code with follow-up prompts:</p>
-    <ul>
-      <li><pre><code>“Add error handling if the city is not found.”</code></pre></li>
-      <li><pre><code>“Update the function to use async/await instead of promises.”</code></pre></li>
-      <li><pre><code>“Return the response as a formatted string, not just JSON.”</code></pre></li>
-    </ul>
-
-    <h2>Quick Takeaway</h2>
-    <p>By iterating this way, you get working API code much faster while still keeping full control over the details.</p>
-  </article>
+      Copilot will generate the fetch logic, handle query parameters, and return structured results. From there, you can refine the code with follow-up prompts:
+      <ul>
+        <li><code>Add error handling if the city is not found.</code></li>
+        <li><code>Update the function to use async/await instead of promises.</code></li>
+        <li><code>Return the response as a formatted string, not just JSON.</code></li>
+      </ul>
+      <br>
+      <b>Takeaway:</b><br>
+      By iterating this way, you get working API code much faster while still keeping full control over the details.
+    </div>
+  </div>
 </body>
 </html>
