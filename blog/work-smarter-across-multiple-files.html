@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Work Smarter Across Multiple Files</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">&larr; Back to Main Page</a>
+    <h1>Work Smarter Across Multiple Files</h1>
+    <p><em>Posted on Aug 22, 2025</em></p>
+
+    <div class="section-title">Usage</div>
+    <p>
+      Sometimes the bug or feature you’re working on doesn’t live in a single file. It spans a controller, a model, and maybe even a test.<br>
+      That’s where <b>GitHub Copilot’s multi-file context</b> comes in. It can reason across your entire project, not just the file in front of you, making its suggestions more complete and accurate.
+    </p>
+
+    <div class="section-title">ProTip</div>
+    <div class="protip">
+      <b>Use Copilot to Understand and Connect Multiple Files</b><br>
+      Instead of copy-pasting code from one file into another or losing track of relationships, you can ask Copilot to connect the dots directly.
+    </div>
+
+    <div class="section-title">Try These Approaches</div>
+    <p>
+      <b>1️⃣ Copilot Chat: Cross-File Help</b><br>
+      <code># How does data flow from the API route in routes/user.js to the database model in models/user.js?</code><br>
+      Copilot pulls context from both files and explains the connections.
+    </p>
+
+    <p>
+      <b>2️⃣ Edit Mode: Refactor Across Files</b><br>
+      Highlight code in one file and type:<br>
+      <code># Update this method so it stays consistent with changes in services/userService.js</code><br>
+      Copilot revises the code while checking other related files.
+    </p>
+
+    <p>
+      <b>3️⃣ Agent Mode: Bigger Picture</b><br>
+      <i>Summarize how authentication works across this repo, including middleware, routes, and tests.</i><br>
+      🤖 Copilot Agent Mode gives you a high-level overview of connected logic.
+    </p>
+
+    <div class="section-title">Extra Prompts to Try</div>
+    <ul>
+      <li># Show me where this function is called across the project</li>
+      <li># Summarize all tests that validate the login process</li>
+      <li># Find inconsistencies between this API response and its usage in the frontend</li>
+    </ul>
+  </div>
+</body>
+</html>
