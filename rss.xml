@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Use Edit Mode for Quick, Targeted Improvements</title>
+      <link>https://pagelsr.github.io/CooknWithCopilot/blog/use-edit-mode-for-quick-targeted-improvements.html</link>
+      <description>Polish code fast with Copilot Edit Mode, simplify logic, match style, and add error handling with a single prompt.</description>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/use-edit-mode-for-quick-targeted-improvements.html</guid>
+    </item>
+    <item>
       <title>Work Smarter Across Multiple Files</title>
       <link>https://pagelsr.github.io/CooknWithCopilot/blog/work-smarter-across-multiple-files.html</link>
       <description>Copilot’s multi-file context helps you connect controllers, models, and tests without losing track of relationships.</description>
