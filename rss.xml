@@ -8,11 +8,18 @@
     <copyright>Copyright 2025 Randy Pagels</copyright>
     <managingEditor>randy.pagels@xebia.com (Randy Pagels)</managingEditor>
     <webMaster>randy.pagels@xebia.com (Randy Pagels)</webMaster>
-    <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2025 00:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 GMT</lastBuildDate>
     <category>Programming</category>
     <generator>CooknWithCopilot Blog</generator>
 
+    <item>
+      <title>Draft Smarter Regex Without the Headaches</title>
+      <link>https://pagelsr.github.io/CooknWithCopilot/blog/draft-smarter-regex-without-the-headaches.html</link>
+      <description>Use Copilot Chat to write, explain, and test regex patterns, so you spend less time guessing and more time shipping.</description>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/draft-smarter-regex-without-the-headaches.html</guid>
+    </item>
     <item>
       <title>Use Edit Mode for Quick, Targeted Improvements</title>
       <link>https://pagelsr.github.io/CooknWithCopilot/blog/use-edit-mode-for-quick-targeted-improvements.html</link>
