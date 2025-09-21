@@ -14,6 +14,20 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Picking the Right AI Model for Your Task</title>
+      <link>https://pagelsr.github.io/CooknWithCopilot/blog/picking-the-right-ai-model-for-your-task.html</link>
+      <description>Choose lighter models for quick edits and stronger models for complex reasoning, match the model to the task and move faster.</description>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/picking-the-right-ai-model-for-your-task.html</guid>
+    </item>
+    <item>
+      <title>Multi-File Edits Made Simple</title>
+      <link>https://pagelsr.github.io/CooknWithCopilot/blog/multi-file-edits-made-simple.html</link>
+      <description>Copilot’s multi-file edits let you refactor, modernize imports, and stay consistent across your project in one flow.</description>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/multi-file-edits-made-simple.html</guid>
+    </item>
+    <item>
       <title>Draft Smarter Regex Without the Headaches</title>
       <link>https://pagelsr.github.io/CooknWithCopilot/blog/draft-smarter-regex-without-the-headaches.html</link>
       <description>Use Copilot Chat to write, explain, and test regex patterns, so you spend less time guessing and more time shipping.</description>
