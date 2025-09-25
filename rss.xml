@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>CooknWithCopilot Blog</title>
-    <link>https://pagelsr.github.io/CooknWithCopilot/</link>
+    <link>https://www.cooknwithcopilot.com/</link>
     <description>Latest posts from CooknWithCopilot</description>
     <language>en-us</language>
     <copyright>Copyright 2025 Randy Pagels</copyright>
@@ -15,185 +15,185 @@
 
     <item>
       <title>Picking the Right AI Model for Your Task</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/picking-the-right-ai-model-for-your-task.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/picking-the-right-ai-model-for-your-task.html</link>
       <description>Choose lighter models for quick edits and stronger models for complex reasoning, match the model to the task and move faster.</description>
       <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/picking-the-right-ai-model-for-your-task.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/picking-the-right-ai-model-for-your-task.html</guid>
     </item>
     <item>
       <title>Multi-File Edits Made Simple</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/multi-file-edits-made-simple.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/multi-file-edits-made-simple.html</link>
       <description>Copilot’s multi-file edits let you refactor, modernize imports, and stay consistent across your project in one flow.</description>
       <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/multi-file-edits-made-simple.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/multi-file-edits-made-simple.html</guid>
     </item>
     <item>
       <title>Draft Smarter Regex Without the Headaches</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/draft-smarter-regex-without-the-headaches.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/draft-smarter-regex-without-the-headaches.html</link>
       <description>Use Copilot Chat to write, explain, and test regex patterns, so you spend less time guessing and more time shipping.</description>
       <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/draft-smarter-regex-without-the-headaches.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/draft-smarter-regex-without-the-headaches.html</guid>
     </item>
     <item>
       <title>Use Edit Mode for Quick, Targeted Improvements</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/use-edit-mode-for-quick-targeted-improvements.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/use-edit-mode-for-quick-targeted-improvements.html</link>
       <description>Polish code fast with Copilot Edit Mode, simplify logic, match style, and add error handling with a single prompt.</description>
       <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/use-edit-mode-for-quick-targeted-improvements.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/use-edit-mode-for-quick-targeted-improvements.html</guid>
     </item>
     <item>
       <title>Work Smarter Across Multiple Files</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/work-smarter-across-multiple-files.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/work-smarter-across-multiple-files.html</link>
       <description>Copilot’s multi-file context helps you connect controllers, models, and tests without losing track of relationships.</description>
       <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/work-smarter-across-multiple-files.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/work-smarter-across-multiple-files.html</guid>
     </item>
     <item>
       <title>Speed Up API Integration with GitHub Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/speed-up-api-integration.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/speed-up-api-integration.html</link>
       <description>Skip boilerplate and get working API calls faster with Copilot, while keeping full control over the details.</description>
       <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/speed-up-api-integration.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/speed-up-api-integration.html</guid>
     </item>
     <item>
       <title>Find and Fix Typos Faster with GitHub Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/find-and-fix-typos-faster-with-github-copilot.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/find-and-fix-typos-faster-with-github-copilot.html</link>
       <description>Typos can be sneaky. A missing letter in a variable name, can cause real headaches.</description>
       <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/find-and-fix-typos-faster-with-github-copilot.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/find-and-fix-typos-faster-with-github-copilot.html</guid>
     </item>
     <item>
       <title>Write Cleaner Code Comments with GitHub Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/write-cleaner-code-comments-with-github-copilot.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/write-cleaner-code-comments-with-github-copilot.html</link>
       <description>Transform vague comments into clear, meaningful documentation that actually helps your future self.</description>
       <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/write-cleaner-code-comments-with-github-copilot.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/write-cleaner-code-comments-with-github-copilot.html</guid>
     </item>
     <item>
       <title>Use GitHub Copilot Chat to Plan Before You Code</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/use-github-copilot-chat-to-plan-before-you-code.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/use-github-copilot-chat-to-plan-before-you-code.html</link>
       <description>Stop jumping straight into code - let Copilot Chat help you think through architecture and design first.</description>
       <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/use-github-copilot-chat-to-plan-before-you-code.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/use-github-copilot-chat-to-plan-before-you-code.html</guid>
     </item>
     <item>
       <title>Copilot vs. Chat: Sidekick Showdown</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/copilot-vs-chat-sidekick-showdown.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/copilot-vs-chat-sidekick-showdown.html</link>
       <description>Discover when to use inline Copilot suggestions vs. when to fire up Chat for deeper conversations.</description>
       <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/copilot-vs-chat-sidekick-showdown.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/copilot-vs-chat-sidekick-showdown.html</guid>
     </item>
     <item>
       <title>Avoid These Common Prompts</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/avoid-these-common-prompts.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/avoid-these-common-prompts.html</link>
       <description>Learn why "write a function" gets you nowhere and what to ask for instead to get better results.</description>
       <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/avoid-these-common-prompts.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/avoid-these-common-prompts.html</guid>
     </item>
     <item>
       <title>Top 10 Copilot Tips</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/top-10-copilot-tips.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/top-10-copilot-tips.html</link>
       <description>Quick wins and power moves that will make you wonder how you ever coded without Copilot.</description>
       <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/top-10-copilot-tips.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/top-10-copilot-tips.html</guid>
     </item>
     <item>
       <title>Refactor Messy Code in Seconds with GitHub Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/refactor-messy-code-in-seconds-with-github-copilot.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/refactor-messy-code-in-seconds-with-github-copilot.html</link>
       <description>Turn legacy spaghetti code into clean, maintainable solutions with targeted refactoring prompts.</description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/refactor-messy-code-in-seconds-with-github-copilot.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/refactor-messy-code-in-seconds-with-github-copilot.html</guid>
     </item>
     <item>
       <title>Automate Repetitive Code with GitHub Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/automate-repetitive-code-with-github-copilot.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/automate-repetitive-code-with-github-copilot.html</link>
       <description>Eliminate boring, repetitive coding tasks by teaching Copilot to recognize and replicate patterns.</description>
       <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/automate-repetitive-code-with-github-copilot.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/automate-repetitive-code-with-github-copilot.html</guid>
     </item>
     <item>
       <title>Ways to Use GitHub Copilot for Documentation &amp; Clarity</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/ways-to-use-github-copilot-for-documentation-clarity.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/ways-to-use-github-copilot-for-documentation-clarity.html</link>
       <description>Generate comprehensive documentation, README files, and inline comments that actually make sense.</description>
       <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/ways-to-use-github-copilot-for-documentation-clarity.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/ways-to-use-github-copilot-for-documentation-clarity.html</guid>
     </item>
     <item>
       <title>Debug Faster with GitHub Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/debug-faster-with-github-copilot.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/debug-faster-with-github-copilot.html</link>
       <description>Speed up debugging by letting Copilot help identify issues and suggest targeted fixes.</description>
       <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/debug-faster-with-github-copilot.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/debug-faster-with-github-copilot.html</guid>
     </item>
     <item>
       <title>Use Copilot in VS Code to Summarize PRs</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/use-copilot-in-vs-code-to-summarize-prs.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/use-copilot-in-vs-code-to-summarize-prs.html</link>
       <description>Create meaningful pull request descriptions that help reviewers understand your changes quickly.</description>
       <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/use-copilot-in-vs-code-to-summarize-prs.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/use-copilot-in-vs-code-to-summarize-prs.html</guid>
     </item>
     <item>
       <title>Write Better Commit Messages with GitHub Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/write-better-commit-messages-with-github-copilot.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/write-better-commit-messages-with-github-copilot.html</link>
       <description>Craft clear, informative commit messages that tell the story of your code changes.</description>
       <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/write-better-commit-messages-with-github-copilot.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/write-better-commit-messages-with-github-copilot.html</guid>
     </item>
     <item>
       <title>Quick Chat is your instant AI sidekick</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/quick-chat-is-your-instant-ai-sidekick.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/quick-chat-is-your-instant-ai-sidekick.html</link>
       <description>Master the art of Quick Chat for instant answers without leaving your coding flow.</description>
       <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/quick-chat-is-your-instant-ai-sidekick.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/quick-chat-is-your-instant-ai-sidekick.html</guid>
     </item>
     <item>
       <title>Craft Prompts That Get Better Results</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/craft-prompts-that-get-better-results.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/craft-prompts-that-get-better-results.html</link>
       <description>Learn the secret sauce of writing prompts that get Copilot to deliver exactly what you need.</description>
       <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/craft-prompts-that-get-better-results.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/craft-prompts-that-get-better-results.html</guid>
     </item>
     <item>
       <title>Start New Files Faster with GitHub Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/start-new-files-faster-with-github-copilot.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/start-new-files-faster-with-github-copilot.html</link>
       <description>Beat the blank file syndrome with techniques to kickstart any new code file or project.</description>
       <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/start-new-files-faster-with-github-copilot.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/start-new-files-faster-with-github-copilot.html</guid>
     </item>
     <item>
       <title>Write Unit Tests Without the Guesswork</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/write-unit-tests-without-the-guesswork.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/write-unit-tests-without-the-guesswork.html</link>
       <description>Generate comprehensive test cases that actually catch bugs and document your code's behavior.</description>
       <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/write-unit-tests-without-the-guesswork.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/write-unit-tests-without-the-guesswork.html</guid>
     </item>
     <item>
       <title>Promptception – Improve Prompts with Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/promptception-improve-prompts-with-copilot.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/promptception-improve-prompts-with-copilot.html</link>
       <description>Use Copilot to help you write better prompts for Copilot - it's meta, but it works!</description>
       <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/promptception-improve-prompts-with-copilot.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/promptception-improve-prompts-with-copilot.html</guid>
     </item>
     <item>
       <title>Let Copilot Help You Name Things</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/let-copilot-help-you-name-things.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/let-copilot-help-you-name-things.html</link>
       <description>Solve one of programming's hardest problems with AI-powered naming suggestions that actually make sense.</description>
       <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/let-copilot-help-you-name-things.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/let-copilot-help-you-name-things.html</guid>
     </item>
     <item>
       <title>Modernize Legacy Code with GitHub Copilot</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/modernize-legacy-code-with-github-copilot.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/modernize-legacy-code-with-github-copilot.html</link>
       <description>Breathe new life into old codebases by gradually updating patterns and practices with Copilot's help.</description>
       <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/modernize-legacy-code-with-github-copilot.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/modernize-legacy-code-with-github-copilot.html</guid>
     </item>
     <item>
       <title>Ask Better Questions, Get Better Code</title>
-      <link>https://pagelsr.github.io/CooknWithCopilot/blog/ask-better-questions-get-better-code.html</link>
+      <link>https://www.cooknwithcopilot.com/blog/ask-better-questions-get-better-code.html</link>
       <description>Master the art of asking Copilot the right questions to get code that actually solves your problems.</description>
       <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-      <guid>https://pagelsr.github.io/CooknWithCopilot/blog/ask-better-questions-get-better-code.html</guid>
+      <guid>https://www.cooknwithcopilot.com/blog/ask-better-questions-get-better-code.html</guid>
     </item>
     
   </channel>
