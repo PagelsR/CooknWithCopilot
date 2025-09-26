@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Guide Your AI with copilot-instructions.md</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">&larr; Back to Main Page</a>
+    <h1>Guide Your AI with copilot-instructions.md</h1>
+    <p><em>Posted on Sep 26, 2025</em></p>
+
+    <div class="section-title">Usage</div>
+    <p>
+      Consistency is tough on a team, code style, naming rules, or how to handle comments can easily drift.<br>
+      That’s where the <b>copilot-instructions.md</b> file comes in. By placing this file at the root of your repo, you can guide GitHub Copilot with project specific rules, so it generates suggestions that fit your team’s standards automatically.
+    </p>
+
+    <div class="section-title">ProTip</div>
+    <div class="protip">
+      <b>Set the Ground Rules Once, Then Let GitHub Copilot Follow Them</b><br>
+      Instead of reminding GitHub Copilot in every prompt, define your preferences once in <code>copilot-instructions.md</code>.<br>
+      Copilot reads the file for context when making suggestions.
+    </div>
+
+    <div class="section-title">Try These Approaches</div>
+    <p>
+      <b>1️⃣ Standardize Naming Conventions</b><br>
+      <code># copilot-instructions.md<br>Use camelCase for variables, PascalCase for classes, and ALL_CAPS_WITH_UNDERSCORES for constants.</code><br>
+      GitHub Copilot will generate names that match the pattern, reducing cleanup later.
+    </p>
+
+    <p>
+      <b>2️⃣ Document Style Choices</b><br>
+      <code># copilot-instructions.md<br>Use JSDoc format for function documentation. Each function must include parameters, return type, and one example.</code><br>
+      Copilot will produce docstrings in the right style without you prompting each time.
+    </p>
+
+    <p>
+      <b>3️⃣ Add Security or Performance Notes</b><br>
+      <code># copilot-instructions.md<br>Never log sensitive data such as passwords, API keys, or tokens. Always use async/await for database calls.</code><br>
+      Helps prevent risky or outdated patterns from creeping into code.
+    </p>
+
+    <div class="section-title">🔑 Now That You’ve Created Instructions: How to Apply Them</div>
+    <ul>
+      <li>Place <code>copilot-instructions.md</code> in the <code>.github</code> folder at the root of your repo. Copilot automatically considers it for completions in that repository.</li>
+      <li>If you update the file, Copilot follows the new rules the next time it generates code.</li>
+      <li>You can combine <code>copilot-instructions.md</code> with <code>.prompt.md</code> to guide both style rules and task specific prompts.</li>
+    </ul>
+
+    <div class="section-title">Extra Ideas to Try</div>
+    <ul>
+      <li>Define test frameworks, “Use Jest for unit tests with describe and it blocks.”</li>
+      <li>Add formatting preferences, “Use 2 spaces for indentation, no semicolons in JavaScript.”</li>
+      <li>Specify domain conventions, “For React components, always use function components with hooks.”</li>
+    </ul>
+
+    <div class="section-title">Quick Takeaway</div>
+    <p>
+      The <code>copilot-instructions.md</code> file is like a style guide that GitHub Copilot actually listens to.<br>
+      Define your rules once, drop the file into your repo, and Copilot will follow them automatically.
+    </p>
+  </div>
+</body>
+</html>
