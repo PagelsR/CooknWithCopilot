@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Supercharge Your Prompts with .prompt.md</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">&larr; Back to Main Page</a>
+    <h1>Supercharge Your Prompts with .prompt.md</h1>
+    <p><em>Posted on Oct 3, 2025</em></p>
+
+    <div class="section-title">Usage</div>
+    <p>
+      Sometimes you want more than style rules. You want GitHub Copilot to reuse rich, detailed prompts that guide its behavior for a specific repo or workflow.<br>
+      That is where the <b>.prompt.md</b> file comes in. It lets you define reusable prompts that can be referenced across your project, giving you consistent, structured instructions without rewriting them each time.
+    </p>
+
+    <div class="section-title">ProTip</div>
+    <div class="protip">
+      <b>Keep Your Best Prompts Close to the Code</b><br>
+      Instead of storing prompts in a doc or typing them fresh each time, define them once in <code>.prompt.md</code> so GitHub Copilot can load and reuse them whenever you need.
+    </div>
+
+    <div class="section-title">Try These Approaches</div>
+    <p>
+      <b>1️⃣ Define Project Specific Prompts</b><br>
+      <code>
+        # .prompt.md<br>
+        ## Generate API Docs<br>
+        Generate documentation for every public function in this repo. Use a markdown format with clear examples.
+      </code><br>
+      GitHub Copilot can reuse this prompt whenever you trigger documentation work.
+    </p>
+
+    <p>
+      <b>2️⃣ Add Testing Prompts</b><br>
+      <code>
+        # .prompt.md<br>
+        ## Write Unit Tests<br>
+        For each service, generate Jest tests that cover success and failure paths.
+      </code><br>
+      Keeps your test writing flow consistent across the project.
+    </p>
+
+    <p>
+      <b>3️⃣ Include Refactoring Prompts</b><br>
+      <code>
+        # .prompt.md<br>
+        ## Refactor for Clarity<br>
+        Simplify code without changing functionality. Add inline comments to explain the final version.
+      </code><br>
+      Useful when handing code off to teammates who need quick readability.
+    </p>
+
+    <div class="section-title">Now That You’ve Created Prompts, How to Use Them</div>
+    <ul>
+      <li>Once <code>.prompt.md</code> is in your repo, you can call these prompts directly in GitHub Copilot Chat.</li>
+      <li>Use the <b>#</b> command in chat to insert a saved prompt by name. Example, <code>#Write Unit Tests</code>.</li>
+      <li>Use the <b>/</b> command to browse available prompts and select one interactively. Example, <code>/Generate API Docs</code>.</li>
+      <li>No copy pasting required. They are reusable shortcuts that keep your workflow consistent.</li>
+    </ul>
+
+    <div class="section-title">Extra Ideas to Try</div>
+    <ul>
+      <li>Add a section for commit messages, “Write clear, Conventional Commit messages based on staged changes.”</li>
+      <li>Add a section for security reviews, “Check this file for hardcoded secrets or unsafe dependencies.”</li>
+      <li>Add a section for UI components, “Generate React components using hooks and TypeScript.”</li>
+    </ul>
+
+    <div class="section-title">Quick Takeaway</div>
+    <p>
+      The <code>.prompt.md</code> file is like a recipe card for your favorite GitHub Copilot prompts.<br>
+      Keep them with your code, call them quickly with <b>#</b> or <b>/</b>, and save time retyping instructions.
+    </p>
+  </div>
+</body>
+</html>

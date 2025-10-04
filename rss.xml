@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Supercharge Your Prompts with .prompt.md</title>
+      <link>https://www.cooknwithcopilot.com/blog/supercharge-your-prompts-with-prompt-md.html</link>
+      <description>Store reusable prompts in .prompt.md so Copilot can load them on demand and keep your workflow consistent.</description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/supercharge-your-prompts-with-prompt-md.html</guid>
+    </item>
+    <item>
       <title>Guide Your AI with copilot-instructions.md</title>
       <link>https://www.cooknwithcopilot.com/blog/guide-your-ai-with-copilot-instructions-md.html</link>
       <description>Define project rules once in copilot-instructions.md and Copilot will follow them for names, docs, and safer patterns.</description>
