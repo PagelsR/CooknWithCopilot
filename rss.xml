@@ -14,6 +14,20 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Treat Your AI Prompts Like Code</title>
+      <link>https://www.cooknwithcopilot.com/blog/treat-your-ai-prompts-like-code.html</link>
+      <description>Keep .prompt.md and copilot-instructions.md in Git, review with PRs, and evolve prompts like code.</description>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/treat-your-ai-prompts-like-code.html</guid>
+    </item>
+    <item>
+      <title>How Much Context Should You Give?</title>
+      <link>https://www.cooknwithcopilot.com/blog/how-much-context-should-you-give.html</link>
+      <description>Find the sweet spot for Copilot context, start focused, then expand only if needed.</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/how-much-context-should-you-give.html</guid>
+    </item>
+    <item>
       <title>Supercharge Your Prompts with .prompt.md</title>
       <link>https://www.cooknwithcopilot.com/blog/supercharge-your-prompts-with-prompt-md.html</link>
       <description>Store reusable prompts in .prompt.md so Copilot can load them on demand and keep your workflow consistent.</description>

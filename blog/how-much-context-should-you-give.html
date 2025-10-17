@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>How Much Context Should You Give?</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">&larr; Back to Main Page</a>
+    <h1>How Much Context Should You Give?</h1>
+    <p><em>Posted on Oct 10, 2025</em></p>
+
+    <div class="section-title">Usage</div>
+    <p>
+      When you ask GitHub Copilot for help, how much code should you actually show it?<br>
+      Too little, and it may not understand what you are asking. Too much, and it may give generic or confused results. The key is finding the right balance. Let’s break it down!
+    </p>
+
+    <div class="section-title">ProTip</div>
+    <div class="protip">
+      <b>Match the Context to the Task</b><br>
+      Different Copilot features respond better depending on how much surrounding code or detail you provide.
+    </div>
+
+    <div class="section-title">Try These Approaches</div>
+
+    <p>
+      <b>1️⃣ Inline Chat: Keep It Close and Focused</b>
+      <ul>
+        <li>Highlight only the function or block of code you need help with.</li>
+        <li>Ask directly: <code># Explain what this function does</code></li>
+      </ul>
+      <i>Best for:</i> Understanding a small section or fixing a local bug.
+    </p>
+
+    <p>
+      <b>2️⃣ Copilot Chat in the Sidebar: Give a Bit More</b>
+      <ul>
+        <li>Paste a few related functions, not the whole file.</li>
+        <li>Ask: <code># Suggest improvements for these functions to reduce duplication</code></li>
+      </ul>
+      <i>Best for:</i> Small refactors, naming suggestions, or quick reviews.
+    </p>
+
+    <p>
+      <b>3️⃣ Copilot Edits: Show the File or Files That Matter</b>
+      <ul>
+        <li>Select the section or entire file when you want Copilot to rewrite, add comments, or restructure.</li>
+        <li>Example: <code># Refactor this file to use async/await consistently</code></li>
+      </ul>
+      <i>Best for:</i> File level consistency and style improvements.
+    </p>
+
+    <p>
+      <b>4️⃣ Copilot Agent Mode: Give Full Project Context When Needed</b>
+      <ul>
+        <li>When tasks span multiple files, like updating imports across a project, Agent Mode benefits from more context.</li>
+        <li>Example: <code># Update all imports to use absolute paths instead of relative ones</code></li>
+      </ul>
+      <i>Best for:</i> Multi file changes, project wide consistency, or dependency updates.
+    </p>
+
+    <div class="section-title">Quick Warning</div>
+    <p>
+      More context is not always better. If Copilot has too much to process, answers can get vague.<br>
+      Start small, then expand the context if you do not get the result you want.
+    </p>
+  </div>
+</body>
+</html>

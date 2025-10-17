@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Treat Your AI Prompts Like Code</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">&larr; Back to Main Page</a>
+    <h1>Treat Your AI Prompts Like Code</h1>
+    <p><em>Posted on Oct 17, 2025</em></p>
+
+    <div class="section-title">Usage</div>
+    <p>
+      You have seen how <code>.prompt.md</code> can store reusable prompts right inside your repo.<br>
+      But what happens when your team updates those prompts or wants to refine them over time?<br>
+      Just like source code, prompts evolve, so you should version them, review them, and improve them with your team.
+    </p>
+
+    <div class="section-title">ProTip</div>
+    <div class="protip">
+      <b>Keep Prompts Under Version Control</b><br>
+      Prompts are not one and done. They are living instructions.<br>
+      By keeping them in version control, you create a history of what worked, what did not, and why certain prompts were changed.
+    </div>
+
+    <div class="section-title">Try These Approaches</div>
+    <p>
+      <b>1️⃣ Version Your .prompt.md and copilot-instructions.md</b>
+      <ul>
+        <li>Store these files at the root of your repo.</li>
+        <li>Every change is tracked in Git just like code.</li>
+        <li>Example commit message, <code>"Refine unit test prompt for better error handling"</code></li>
+      </ul>
+    </p>
+
+    <p>
+      <b>2️⃣ Use Pull Requests for Prompt Changes</b>
+      <ul>
+        <li>Treat prompt edits like code edits.</li>
+        <li>Open a PR when you refine or add a new prompt.</li>
+        <li>Use Copilot Chat to summarize or review the changes.</li>
+        <li>Example, <code># Summarize the changes in this .prompt.md update</code></li>
+      </ul>
+    </p>
+
+    <p>
+      <b>3️⃣ Document the Reason for Changes</b>
+      <ul>
+        <li>In PR descriptions, explain why the prompt changed.</li>
+        <li>Example, “Updated the refactoring prompt to emphasize TypeScript over JavaScript.”</li>
+      </ul>
+    </p>
+
+    <p>
+      <b>4️⃣ Iterate with Feedback</b>
+      <ul>
+        <li>Review prompt changes in team discussions.</li>
+        <li>Ask Copilot to suggest refinements or flag inconsistencies.</li>
+        <li>Example, <code># Check this .prompt.md for clarity and duplication</code></li>
+      </ul>
+    </p>
+
+    <div class="section-title">Quick Warning</div>
+    <p>
+      Be mindful of drift. If you have multiple repos, keep prompt standards aligned.<br>
+      Otherwise, teams may end up with different versions of the same prompt.
+    </p>
+
+    <div class="section-title">Quick Takeaway</div>
+    <p>
+      Prompts are part of your development process, not just throwaway instructions.<br>
+      Version them like code, review them like code, and you will build a library of effective prompts that grows stronger with your team’s input.
+    </p>
+  </div>
+</body>
+</html>
