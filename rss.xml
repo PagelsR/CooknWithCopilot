@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Context Engineering Recipes &#8226; The Reflection Pattern</title>
+      <link>https://www.cooknwithcopilot.com/blog/context-engineering-recipes-the-reflection-pattern.html</link>
+      <description>Use reflection prompts to make Copilot explain its reasoning first, then decide what to accept.</description>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/context-engineering-recipes-the-reflection-pattern.html</guid>
+    </item>
+    <item>
       <title>Context Engineering Recipes &#8226; The Persona Pattern</title>
       <link>https://www.cooknwithcopilot.com/blog/context-engineering-recipes-persona-pattern.html</link>
       <description>Guide Copilot with a clear role, switch personas to change tone and focus, and get sharper answers.</description>
