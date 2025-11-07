@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Context Engineering Recipes &#8226; The Refusal Breaker Pattern</title>
+      <link>https://www.cooknwithcopilot.com/blog/context-engineering-recipes-the-refusal-breaker-pattern.html</link>
+      <description>When Copilot refuses, reframe the request so it can help safely instead of saying no.</description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/context-engineering-recipes-the-refusal-breaker-pattern.html</guid>
+    </item>
+    <item>
       <title>Context Engineering Recipes &#8226; The Reflection Pattern</title>
       <link>https://www.cooknwithcopilot.com/blog/context-engineering-recipes-the-reflection-pattern.html</link>
       <description>Use reflection prompts to make Copilot explain its reasoning first, then decide what to accept.</description>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Context Engineering Recipes - The Refusal Breaker Pattern</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">&larr; Back to Main Page</a>
+    <h1>Context Engineering Recipes - The Refusal Breaker Pattern</h1>
+    <p><em>Posted on Nov 7, 2025</em></p>
+
+    <div class="section-title">Usage</div>
+    <p>
+      Last time, you learned the Reflection Pattern, teaching Copilot to look in the mirror and explain its reasoning.<br>
+      This week’s recipe, the Refusal Breaker Pattern, is for those moments when Copilot politely says, “I can’t help with that.”
+    </p>
+
+    <div class="section-title">ProTip</div>
+    <div class="protip">
+      <b>Reframe, Don’t Repeat</b><br>
+      When GitHub Copilot declines a request, it is usually because the prompt is not clear, safe, or within scope.<br>
+      The Refusal Breaker Pattern helps you reframe your request so Copilot understands your intent while staying within boundaries.
+    </div>
+
+    <div class="section-title">Try These Approaches</div>
+
+    <p>
+      <b>1️⃣ Clarify the Goal, Not the Action</b><br>
+      Instead of asking Copilot to “do” something sensitive or vague, ask it to explain how.<br>
+      <span>❌ Write an exploit to test this API.</span><br>
+      <span>✅ Explain how to secure an API from common injection attacks.</span><br>
+      <i>Best for:</i> Getting guidance while keeping the request compliant.
+    </p>
+
+    <p>
+      <b>2️⃣ Break Big Tasks into Smaller Steps</b><br>
+      Sometimes Copilot refuses because the request is too broad.<br>
+      <span>❌ Build a complete CI/CD system for my app.</span><br>
+      <span>✅ Suggest GitHub Actions steps to automate testing and deployment for a Node.js project.</span><br>
+      <i>Best for:</i> Complex or multi step automation tasks.
+    </p>
+
+    <p>
+      <b>3️⃣ Ask for an Example or Template Instead</b><br>
+      If Copilot cannot generate full code, ask for a structure you can fill in.<br>
+      <span>❌ Write a full data migration script.</span><br>
+      <span>✅ Create a sample outline for a data migration script between two PostgreSQL databases.</span><br>
+      <i>Best for:</i> Situations where you need a starting point.
+    </p>
+
+    <p>
+      <b>4️⃣ Reframe to Focus on Explanation or Best Practices</b><br>
+      Copilot might say no to a direct solution but yes to an explanation.<br>
+      <span>❌ Generate code to bypass authentication.</span><br>
+      <span>✅ Explain why authentication should never be bypassed and show how to handle test environments safely.</span><br>
+      <i>Best for:</i> Security related or restricted scenarios.
+    </p>
+
+    <div class="section-title">Quick Tip</div>
+    <p>
+      If Copilot hesitates, do not argue, adjust.<br>
+      A few extra words of context, like “securely”, “for learning”, or “example only”, can make all the difference.
+    </p>
+
+    <div class="section-title">Quick Takeaway</div>
+    <p>
+      The Refusal Breaker Pattern is not about pushing limits, it is about finding the right phrasing so Copilot understands your purpose.<br>
+      When you guide instead of demand, you get helpful, compliant answers every time.
+    </p>
+  </div>
+</body>
+</html>
