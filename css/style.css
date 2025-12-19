@@ -101,7 +101,11 @@ ul li {
   margin-bottom: 1em;
   font-size: 1.07em;
   line-height: 1.5;
-  display: block;
+  /* display: block; */
+}
+.container p ul li {
+  line-height: .5em;
+  margin-bottom: 0.3em;
 }
 
 .post-header {
