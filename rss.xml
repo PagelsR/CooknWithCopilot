@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Cook’n with GitHub Copilot: Context Engineering Recipes &#8226; The Recap</title>
+      <link>https://www.cooknwithcopilot.com/blog/cookn-with-github-copilot-context-engineering-recipes-recap.html</link>
+      <description>A holiday recap of Persona, Reflection, Refusal Breaker, and Cognitive Verifier, four prompt patterns for sharper Copilot results.</description>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/cookn-with-github-copilot-context-engineering-recipes-recap.html</guid>
+    </item>
+    <item>
       <title>Context Engineering Recipes &#8226; The Cognitive Verifier Pattern</title>
       <link>https://www.cooknwithcopilot.com/blog/context-engineering-recipes-the-cognitive-verifier-pattern.html</link>
       <description>Ask Copilot to clarify your request first so you get cleaner, more accurate answers instead of rushed code.</description>
