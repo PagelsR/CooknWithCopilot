@@ -14,7 +14,14 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
-      <title>Cook’n with GitHub Copilot: Context Engineering Recipes &#8226; The Recap</title>
+      <title>From Tool to Teammate</title>
+      <link>https://www.cooknwithcopilot.com/blog/from-tool-to-teammate.html</link>
+      <description>Start collaborating with Copilot like a teammate, plan first, ask for feedback, and let it question assumptions.</description>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/from-tool-to-teammate.html</guid>
+    </item>
+    <item>
+      <title>Context Engineering Recipes &#8226; The Recap</title>
       <link>https://www.cooknwithcopilot.com/blog/context-engineering-recipes-recap.html</link>
       <description>A holiday recap of Persona, Reflection, Refusal Breaker, and Cognitive Verifier, four prompt patterns for sharper Copilot results.</description>
       <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
