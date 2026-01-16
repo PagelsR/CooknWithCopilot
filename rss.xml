@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>When to Lead, When to Delegate to GitHub Copilot</title>
+      <link>https://www.cooknwithcopilot.com/blog/when-to-lead-when-to-delegate-to-github-copilot.html</link>
+      <description>Lead on judgment calls, delegate the busywork, use a feedback loop so Copilot stays fast and you stay in control.</description>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/when-to-lead-when-to-delegate-to-github-copilot.html</guid>
+    </item>
+    <item>
       <title>From Tool to Teammate</title>
       <link>https://www.cooknwithcopilot.com/blog/from-tool-to-teammate.html</link>
       <description>Start collaborating with Copilot like a teammate, plan first, ask for feedback, and let it question assumptions.</description>
