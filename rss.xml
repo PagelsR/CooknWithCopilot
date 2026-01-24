@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>How to Review GitHub Copilot’s Work Like a Senior Developer</title>
+      <link>https://www.cooknwithcopilot.com/blog/how-to-review-github-copilots-work-like-a-senior-developer.html</link>
+      <description>Review Copilot’s output for intent, assumptions, and structure first, then iterate with a feedback loop like a senior dev.</description>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/how-to-review-github-copilots-work-like-a-senior-developer.html</guid>
+    </item>
+    <item>
       <title>When to Lead, When to Delegate to GitHub Copilot</title>
       <link>https://www.cooknwithcopilot.com/blog/when-to-lead-when-to-delegate-to-github-copilot.html</link>
       <description>Lead on judgment calls, delegate the busywork, use a feedback loop so Copilot stays fast and you stay in control.</description>

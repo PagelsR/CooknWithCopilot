@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>How to Review GitHub Copilot’s Work Like a Senior Developer</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">&larr; Back to Main Page</a>
+    <h1>How to Review GitHub Copilot’s Work Like a Senior Developer</h1>
+    <p><em>Posted on Jan 23, 2026</em></p>
+
+    <div class="section-title">Usage</div>
+    <p>
+      Last week, we talked about knowing when to lead and when to delegate to GitHub Copilot. Today’s recipe picks up right where that left off. Delegation is only half the job. Review is where real confidence is built.<br><br>
+      Let’s talk about how to review GitHub Copilot’s work the same way a senior developer would review a teammate’s pull request.
+    </p>
+
+    <div class="section-title">ProTip</div>
+    <div class="protip">
+      <b>Treat Copilot’s output like a first draft from a smart teammate.</b><br>
+      Review it with intent, not suspicion.
+    </div>
+
+    <div class="section-title">Start With Intent, Not Syntax</div>
+    <p>
+      Before reading line by line, pause and ask one question.<br><br>
+      <b>What is this code trying to do?</b><br>
+      Senior developers review for intent first, not formatting or style. If the purpose is unclear, everything else is noise.
+    </p>
+    <p>
+      <b>Try this in GitHub Copilot Chat:</b><br>
+      <code>Explain what this code is doing and what problem it solves.</code><br>
+      If the explanation doesn’t match your goal, stop there and correct course.
+    </p>
+
+    <div class="section-title">Validate the Assumptions</div>
+    <p>
+      GitHub Copilot is fast, but it makes assumptions. Your job is to surface them.<br>
+      Review for:
+    </p>
+    <ul>
+      <li>Edge cases</li>
+      <li>Error handling</li>
+      <li>Default values</li>
+      <li>Hidden dependencies</li>
+      <li>Assumptions about input shape or state</li>
+    </ul>
+    <p>
+      <b>Follow up prompt to use:</b><br>
+      <code>What assumptions does this code make about inputs, state, or environment?</code><br>
+      This often reveals gaps you would otherwise miss.
+    </p>
+
+    <div class="section-title">Check Structure Before Details</div>
+    <p>
+      Senior reviewers look for structure early. Ask yourself:
+    </p>
+    <ul>
+      <li>Is responsibility clear?</li>
+      <li>Are functions doing one thing?</li>
+      <li>Is this easy to test?</li>
+      <li>Would another developer understand this in six months?</li>
+    </ul>
+    <p>
+      If not, let GitHub Copilot help clean it up.
+    </p>
+    <p>
+      <b>Try this:</b><br>
+      <code>Refactor this code to improve readability and structure without changing behavior.</code><br>
+      Then review again.
+    </p>
+
+    <div class="section-title">🔄 Use the Review Loop</div>
+    <p>
+      The strongest workflow is a loop, not a handoff.
+    </p>
+    <ol>
+      <li>GitHub Copilot generates code</li>
+      <li>You review intent and structure</li>
+      <li>You give targeted feedback</li>
+      <li>GitHub Copilot revises</li>
+      <li>You approve or adjust</li>
+    </ol>
+    <p>
+      This mirrors how experienced teams work every day.
+    </p>
+
+    <div class="section-title">A Simple Senior Level Rule</div>
+    <p>
+      If you would comment on it in a pull request, comment on it with Copilot.<br>
+      Ask for:
+    </p>
+    <ul>
+      <li>Clarification</li>
+      <li>Safer defaults</li>
+      <li>Simpler logic</li>
+      <li>Better naming</li>
+    </ul>
+    <p>
+      GitHub Copilot responds well to direct, specific feedback.
+    </p>
+
+    <div class="section-title">Quick Takeaway</div>
+    <p>
+      Senior developers don’t just write code. They review for clarity, safety, and long term understanding.<br>
+      When you review GitHub Copilot’s work with that same mindset, the output improves fast and so does your trust in it.
+    </p>
+  </div>
+</body>
+</html>
