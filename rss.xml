@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Prompt Less, Context More</title>
+      <link>https://www.cooknwithcopilot.com/blog/prompt-less-context-more.html</link>
+      <description>Shorter prompts often work better when Copilot has the right code, intent, and surrounding context to work with.</description>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/prompt-less-context-more.html</guid>
+    </item>
+    <item>
       <title>Trust, but Verify: Building Confidence in GitHub Copilot Output</title>
       <link>https://www.cooknwithcopilot.com/blog/trust-but-verify-building-confidence-in-github-copilot-output.html</link>
       <description>Trust Copilot on common patterns, verify risky decisions fast, and use quick prompts to validate edge cases and assumptions.</description>
