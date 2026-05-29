@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Teach GitHub Copilot How Your Team Thinks</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <div class="container">
+    <a class="back-link" href="../index.html">&larr; Back to Main Page</a>
+    <h1>Teach GitHub Copilot How Your Team Thinks</h1>
+    <p><em>Posted on May 29, 2026</em></p>
+
+    <div class="section-title">Usage</div>
+    <p>
+      We've talked about treating GitHub Copilot like a teammate, providing better context, and even letting Copilot ask clarifying questions before jumping into a solution.<br><br>
+      Today, we're taking that idea one step further.<br><br>
+      What if GitHub Copilot already knew how your team prefers to work before you even typed a prompt?
+    </p>
+
+    <div class="section-title">ProTip</div>
+    <div class="protip">
+      <b>The best GitHub Copilot users don't repeat the same instructions every day.</b><br>
+      They capture team knowledge once and let Copilot use it repeatedly.
+    </div>
+
+    <div class="section-title">Stop Repeating Yourself</div>
+    <p>
+      Have you ever found yourself telling GitHub Copilot the same things over and over?<br>
+      Things like:
+    </p>
+    <ul>
+      <li>Use our naming conventions</li>
+      <li>Follow our API patterns</li>
+      <li>Write tests using our preferred framework</li>
+      <li>Structure React components a certain way</li>
+      <li>Follow our coding standards</li>
+    </ul>
+
+    <p>
+      Instead of repeating these instructions in every conversation, teach GitHub Copilot once and make them part of your repository.
+    </p>
+
+    <div class="section-title">Capture Team Standards in copilot-instructions.md</div>
+    <p>
+      The <code>copilot-instructions.md</code> file allows you to provide repository-specific guidance that GitHub Copilot can use while generating code.
+    </p>
+
+    <p>
+      <b>Example:</b>
+    </p>
+
+    <pre><code># Team Standards
+
+Use PascalCase for class names.
+Use dependency injection for services.
+Write unit tests using xUnit.
+Avoid business logic inside controllers.
+</code></pre>
+
+    <p>
+      Now GitHub Copilot has a better understanding of how your team works.
+    </p>
+
+    <div class="section-title">Share Architectural Guidance</div>
+    <p>
+      Standards are important, but architecture matters too.
+    </p>
+
+    <p>
+      <b>Example:</b>
+    </p>
+
+    <pre><code># Architecture Notes
+
+Controllers call services.
+Services handle business logic.
+Repositories handle data access.
+Do not access the database directly from controllers.
+</code></pre>
+
+    <p>
+      This helps GitHub Copilot generate code that fits naturally into your existing application structure.
+    </p>
+
+    <div class="section-title">Turn Team Knowledge into Reusable Assets</div>
+    <p>
+      Think beyond coding standards.<br>
+      Capture things like:
+    </p>
+
+    <ul>
+      <li>Preferred testing approaches</li>
+      <li>API design conventions</li>
+      <li>Logging standards</li>
+      <li>Security practices</li>
+      <li>Common design patterns</li>
+    </ul>
+
+    <p>
+      Every instruction you document becomes one less thing developers need to explain repeatedly.
+    </p>
+
+    <div class="section-title">Make Copilot Feel More Like a Team Member</div>
+    <p>
+      The goal isn't to make GitHub Copilot smarter. The goal is to make GitHub Copilot smarter about your team.
+    </p>
+
+    <p>
+      The more context you provide about how your organization builds software, the more consistent and useful Copilot's suggestions become.
+    </p>
+
+    <div class="section-title">Start Small</div>
+    <p>
+      You don't need a 20-page instruction file.<br>
+      Start with:
+    </p>
+
+    <ul>
+      <li>Naming conventions</li>
+      <li>Testing standards</li>
+      <li>Architecture rules</li>
+      <li>Common coding preferences</li>
+    </ul>
+
+    <p>
+      Then add more guidance as patterns emerge.
+    </p>
+
+    <div class="section-title">Quick Takeaway</div>
+    <p>
+      GitHub Copilot becomes significantly more helpful when it understands your team's expectations.<br>
+      Instead of teaching GitHub Copilot the same lessons every day, capture those lessons once and let the entire team benefit.
+    </p>
+
+    <ul>
+      <li>Less repetition.</li>
+      <li>More consistency.</li>
+      <li>Better collaboration.</li>
+    </ul>
+  </div>
+</body>
+</html>

@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Teach GitHub Copilot How Your Team Thinks</title>
+      <link>https://www.cooknwithcopilot.com/blog/teach-github-copilot-how-your-team-thinks.html</link>
+      <description>Capture team standards once with copilot-instructions.md and let Copilot generate code that fits your team's style.</description>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/teach-github-copilot-how-your-team-thinks.html</guid>
+    </item>
+    <item>
       <title>Let GitHub Copilot Ask First</title>
       <link>https://www.cooknwithcopilot.com/blog/let-github-copilot-ask-first.html</link>
       <description>Ask Copilot to clarify the problem first so you get fewer assumptions, better prompts, and stronger results.</description>
