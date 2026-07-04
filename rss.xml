@@ -14,6 +14,13 @@
     <generator>CooknWithCopilot Blog</generator>
 
     <item>
+      <title>Three Habits for Better AI Pairing</title>
+      <link>https://www.cooknwithcopilot.com/blog/three-habits-for-better-ai-pairing.html</link>
+      <description>Build better AI conversations by starting with intent, exploring options, and reviewing assumptions before accepting code.</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
+      <guid>https://www.cooknwithcopilot.com/blog/three-habits-for-better-ai-pairing.html</guid>
+    </item>
+    <item>
       <title>Teach GitHub Copilot How Your Team Thinks</title>
       <link>https://www.cooknwithcopilot.com/blog/teach-github-copilot-how-your-team-thinks.html</link>
       <description>Capture team standards once with copilot-instructions.md and let Copilot generate code that fits your team's style.</description>
